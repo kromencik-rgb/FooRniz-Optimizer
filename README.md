@@ -1,3 +1,4 @@
+# FooRniz Optimizer BETA
 # ⚡ FooRniz optimizer BETA
 
 **FooRniz optimizer BETA** — программа для очистки, оптимизации Windows и запуска встроенного Zapret.
