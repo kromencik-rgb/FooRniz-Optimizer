@@ -35,6 +35,11 @@
 - Программа не удаляет личные файлы из Документов, Рабочего стола и Загрузок.
 - Если не уверен, сначала используй быструю очистку.
 
+
+FooRniz optimizer BETA
+FooRniz optimizer для Windows
+FooRniz optimizer GitHub
+
 ## 🧪 Версия
 
 **BETA**
